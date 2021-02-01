@@ -41,7 +41,20 @@ html,body {
         display: none;
     }
     body {
-        background: url('dentistry.jpg.jpg');
+        background: url('/images/dentalMoment.jpg');
         background-size: cover;
     }
 }
+
+
+
+.person {
+      border: 10px solid transparent;
+      margin-bottom: 25px;
+      width: 80%;
+      height: 80%;
+      opacity: 0.7;
+  }
+  .person:hover {
+      border-color: #f1f1f1;
+  }
