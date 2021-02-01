@@ -1,5 +1,6 @@
 video{
     width:100%;
+    height: auto;
 }
 /* .hero {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/dental.mp4");
@@ -9,4 +10,3 @@ video{
   background-size: cover;
   position: relative;
 } */
-
