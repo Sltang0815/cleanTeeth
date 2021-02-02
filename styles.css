@@ -10,3 +10,6 @@ video{
   background-size: cover;
   position: relative;
 } */
+section {
+  width: 100%;
+}
