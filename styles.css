@@ -1,3 +1,5 @@
+
+
 #meetTheTeam, #aboutInfo  {
   padding: 50px;
 }
@@ -95,4 +97,9 @@ h5{
 .vision-text{
   margin: auto;
   padding: 20px;
+}
+
+.bio-section{
+  margin-top: 20px;
+  padding: 25px;
 }
