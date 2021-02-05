@@ -26,3 +26,11 @@ video{
   width: 100%;
   /* The width is the width of the web page */
 }
+.navbar{
+  z-index: 1;
+}
+
+.margin-top-nav{
+  margin-top: 101px !important;
+
+}
