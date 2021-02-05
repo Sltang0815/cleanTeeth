@@ -42,12 +42,17 @@ footer{
   color:white;
   
 }
-
+h2{
+  padding-top: 35px;
+}
 h6 {
   text-decoration: underline;
 }
 h5{
   padding-top: 10px;
+}
+h4{
+  text-decoration: underline;
 }
 
 .contactForm {
