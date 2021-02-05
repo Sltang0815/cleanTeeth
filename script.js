@@ -1,3 +1,4 @@
+// utilizing Js and APIs to add a map with the offices exact coordinates in San Tan
 // Initialize and add the map
 function initMap() {
     // The location of Uluru

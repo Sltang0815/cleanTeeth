@@ -17,7 +17,11 @@
     <script src="script.js"></script>
     <!-- Logo in the browsers tab -->
     <link rel="shortcut icon" type="image/png" href=" images/shortcutIcon75x75.png">
+
+
+
     <!-- google maps script -->
+    <!-- Using my Own API key to make a functional map -->
     <script
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3QBM27AmBvAtJrFkroRAyU207kZVrWZ0&callback=initMap&libraries=&v=weekly"
         defer></script>
@@ -44,6 +48,8 @@
             <!-- collapse element to adjust with screen size change -->
             <!-- one pager that that links navbar buttons to sections in body -->
             <ul class="navbar-nav ml-auto">
+
+                <!-- using "index#" to redirect to an exact spot within the one pager -->
                 <li class="nav-item">
                     <a class="nav-link" href="index.html#myPage">Home</a>
                 </li>
@@ -76,6 +82,7 @@
     </section>
 
     <!--The div element for the map -->
+    <!-- Javascript uses the "map" ID to place the google maps into that set container -->
     <section>
 
 
