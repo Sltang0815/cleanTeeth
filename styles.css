@@ -1,5 +1,6 @@
-
-
+#meetTheTeam, #aboutInfo  {
+  padding: 50px;
+}
 
 video{
     width:100%;
@@ -7,9 +8,6 @@ video{
     
 }
 
-/* section {
-  width: 100%;
-} */
 
 .person:hover {
   opacity: 0.75;
@@ -24,7 +22,7 @@ video{
 /* Set the size of the div element that contains the map */
 #map {
   height: 700px;
-  /* The height is 400 pixels */
+  /* The height is 700 pixels */
   width: 100%;
   /* The width is the width of the web page */
 }
