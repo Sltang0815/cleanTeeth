@@ -8,7 +8,7 @@ video{
     
 }
 
-
+/* hover element for the main page photos. the tinting effect to show responsiveness */
 .person:hover {
   opacity: 0.75;
    
@@ -26,10 +26,11 @@ video{
   width: 100%;
   /* The width is the width of the web page */
 }
+/* positioning of navbar top/bottom/underneath */
 .navbar{
   z-index: 1;
 }
-
+/* spacing for the section under the navbar. 101px as the inspected nav width */
 .margin-top-nav{
   margin-top: 101px !important;
 
