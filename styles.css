@@ -35,3 +35,21 @@ video{
   margin-top: 101px !important;
 
 }
+
+footer{
+  color:white;
+}
+
+h6 {
+  text-decoration: underline;
+}
+
+.contactForm {
+  padding: 25px;
+  
+}
+
+footer{
+  padding: 3em;
+}
+
