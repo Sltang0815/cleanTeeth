@@ -44,6 +44,9 @@ footer{
 h6 {
   text-decoration: underline;
 }
+h5{
+  padding-top: 10px;
+}
 
 .contactForm {
   padding: 25px;
@@ -51,4 +54,30 @@ h6 {
 }
 
 
+/* services section */
+.box{
+  padding: 15px;
+  margin: 5px;
+}
+/* css for the box size, spacing, shadow effect, text positioning */
+.cleaning-services {
+    margin-top: 75px;
+    padding-bottom: 30px;
+    padding: 0 60px;
+    min-height: 198px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: all .4s ease-in-out;
+    box-shadow: 0 0 25px 0 rgba(46, 46, 51, 0.17)
+}
 
+.cleaning-services:hover h5,
+/* css changes the color of the text to white from black when you hover and the background changes to the linear gradiant */
+.cleaning-services:hover p {
+    color: #fff
+}
+/* linear gradiant effects for */
+.services-box:hover {
+    background-image: linear-gradient(-45deg, #34b5bf 0%, #1c5b97 100%)
+}
