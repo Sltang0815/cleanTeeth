@@ -85,3 +85,14 @@ h5{
 #services{
   margin-top: 10px;
 }
+
+.vision-container{
+  
+  border: solid  #347cbf 2px;
+  border-radius: 8px;
+}
+
+.vision-text{
+  margin: auto;
+  padding: 20px;
+}
