@@ -107,17 +107,21 @@ form {
 .bio-section{
   margin-top: 20px;
   padding: 25px;
+  background-color: #fff;
+  border-radius: 8px;
 }
 
 .parallax{
   background-image: url(images/tooth.jpg) ;
-  height: 200px;
+  height: 100%;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+
 .contactFooter{
   color: black;
 }
+
