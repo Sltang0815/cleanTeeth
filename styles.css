@@ -55,9 +55,9 @@ h4{
   text-decoration: underline;
 }
 
-.contactForm {
+form {
   padding: 25px;
-  
+  background-color: #fff;
 }
 
 
@@ -107,4 +107,17 @@ h4{
 .bio-section{
   margin-top: 20px;
   padding: 25px;
+}
+
+.parallax{
+  background-image: url(images/tooth.jpg) ;
+  height: 200px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contactFooter{
+  color: black;
 }
